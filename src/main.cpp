@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <NTPClient.h>
-#include <RestClient.h>
+//#include <RestClient.h>
 #include <DHT.h>
 #include <DHT_U.h>
 #include <WiFi.h>
